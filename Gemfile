@@ -1,6 +1,7 @@
 source "https://rubygems.org"
+ruby '2.2.3'
 
-gem "rails", "~> 4.2.3"
+gem "rails", "~> 4.2.5.1"
 gem "pg"
 gem "pghero"
 gem "aws-sdk"
